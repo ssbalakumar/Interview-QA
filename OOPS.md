@@ -1,1 +1,1 @@
-
+> The primary building blocks of object-oriented programming are the class & the object.
