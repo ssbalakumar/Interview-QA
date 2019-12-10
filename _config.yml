@@ -11,7 +11,7 @@ search_tokenizer_separator: /[\s/]+/
 
 # Aux links for the upper right navigation
 aux_links: 
-  "GitHub":
+  "Projects":
     - "https://github.com/ssbalakumar"
     
 # Footer content appears at the bottom of every page's main content
