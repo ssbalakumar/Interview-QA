@@ -1,2 +1,3 @@
 ## Object Oriented Programming QA's
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+ 
+ All OOP languages provide mechanisms that help you implement the object-oriented model.
