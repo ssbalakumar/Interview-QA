@@ -4,8 +4,8 @@
 
 Importat concepts of OOPS are: 
 1.Classes and Objects
-Constructor and Destructor
-Function Overloading
+2.Constructor and Destructor
+3.Function Overloading
 Encapsulation
 Inheritance
 Interface
