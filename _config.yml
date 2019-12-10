@@ -13,7 +13,7 @@ search_tokenizer_separator: /[\s/]+/
 # Aux links for the upper right navigation
 aux_links:
   "About":
-    - "https://ssbalakumar.github.io/about"
+    - "https://ssbalakumar.github.io/about-me"
   "GitHub":
     - "https://github.com/ssbalakumar"
     
