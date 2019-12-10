@@ -1,6 +1,7 @@
 title: "Interview QA"
 
-remote_theme: pmarsceill/just-the-docs 
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark" 
 
 # Enable or disable the site search
 # Supports true (default) or false
