@@ -9,3 +9,8 @@ search_enabled: true
 
 # Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
+
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "https://github.com/ssbalakumar"
