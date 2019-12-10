@@ -1,8 +1,12 @@
 ////
 //// Typography
 ////
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
-$body-font-family: Roboto, noto, "segoe ui", arial, sans-serif;
+// Font Variables
+$roboto: 'Roboto', serif; 
+
+$body-font-family: $roboto;
 //$mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
 //$root-font-size: 16px;         // Base font-size for rems
 //$body-line-height: 1.4;
