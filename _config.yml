@@ -14,3 +14,6 @@ search_tokenizer_separator: /[\s/]+/
 aux_links:
   "GitHub":
     - "https://github.com/ssbalakumar"
+    
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 Bala Kumar."
